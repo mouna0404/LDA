@@ -19,12 +19,15 @@ Il ne faut pas oublier les constantes (intercept) des fonctions linéaires.
 <p align="center">
 <img src="https://github.com/mouna0404/LDA/blob/f6d09503069993d0b1196cd1efc5f63d2f2b992e/imgs/4.png"><br>
 </p>
-## Evaluer le modèle global
-### 1- Calcul de matrice de covariance intra‐classe
+
+## Evaluer le modèle global <br>
+
+### 1- Calcul de matrice de covariance intra‐classe <br>
  <p align="center">
 <img src="https://github.com/mouna0404/LDA/blob/f6d09503069993d0b1196cd1efc5f63d2f2b992e/imgs/5.png"><br>
 </p>
-### 2- Calcul de Matrice de covariance totale
+
+### 2- Calcul de Matrice de covariance totale <br>
  <p align="center">
 <img src="https://github.com/mouna0404/LDA/blob/f6d09503069993d0b1196cd1efc5f63d2f2b992e/imgs/6.png"><br>
 </p>
